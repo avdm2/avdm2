@@ -5,7 +5,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=avdm2&label=Profile%20views&color=0e75b6&style=flat" alt="avdm2" /> </p>
 </div>
 
-- 🌱 I’m currently learning: **Java, C# (ASP.Net Core), Python**
+- 🌱 I’m currently learning: **Java, C# (ASP.Net Core), Go, Python**
 
 - 👨‍💻 All of my projects will be available at: [https://github.com/avdm2?tab=repositories](https://github.com/avdm2?tab=repositories)
 
