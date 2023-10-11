@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
 <h3 align="center">HSE SE '25</h3>
 
-<div>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=avdm2&label=Profile%20views&color=0e75b6&style=flat" alt="avdm2" /> </p>
-</div>
-
-- 🌱 I’m currently learning: **Java, C# (ASP.Net Core), Go, Python**
+- 🌱 I’m currently learning: **Java, C# (ASP.Net Core), Go**
 
 - 👨‍💻 All of my projects will be available at: [https://github.com/avdm2?tab=repositories](https://github.com/avdm2?tab=repositories)
 
