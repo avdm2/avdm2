@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
 <h3 align="center">HSE SE '25</h3>
 
-- 🌱 I’m currently learning: **Java, C# (ASP.Net Core), Go**
+- 🌱 I’m currently learning: **Java + Kotlin, Go**
 
 - 👨‍💻 All of my projects will be available at: [https://github.com/avdm2?tab=repositories](https://github.com/avdm2?tab=repositories)
 
