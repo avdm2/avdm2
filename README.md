@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
 <h3 align="center">HSE SE '25</h3>
+<h3 align="center">Junior Backend Java Developer @ Sber</h3>
 
-- 🌱 I’m currently learning: **Java + Go**
+- 🌱 I’m currently learning: **Java, Kotlin and Go**
 
 - 👨‍💻 All of my projects will be available at: [https://github.com/avdm2?tab=repositories](https://github.com/avdm2?tab=repositories)
 
